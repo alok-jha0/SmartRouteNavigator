@@ -6,7 +6,7 @@ A React Native mobile application that helps users find the most efficient route
 
 **Alok Jha**
 - GitHub: [ GitHub Profile](https://github.com/alok-jha0)
-- LinkedIn: [ LinkedIn Profile](www.linkedin.com/in/alok-jha-3bb34924a)
+- LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/alok-jha-3bb34924a/)
 - Email: [alokjha27may@gmail.com](mailto:alokjha27may@gmail.com)
 
 
